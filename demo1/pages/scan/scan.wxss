@@ -1,0 +1,13 @@
+/* pages/ocr/index.wxss */
+.container {
+  padding: 20px;
+}
+
+.preview-image {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.ocr-result {
+  margin-top: 20px;
+}

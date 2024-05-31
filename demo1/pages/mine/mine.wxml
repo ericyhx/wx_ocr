@@ -1,0 +1,5 @@
+<view class="container">
+  <button bindtap="scanBarcode">扫描条形码</button>
+  <view>{{barcode}}</view>
+  <button bindtap="save">保存</button>
+</view>

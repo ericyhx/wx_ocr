@@ -1,0 +1,8 @@
+
+.camera {
+    position: relative;
+    width: 70vw;
+    height: 70vw;
+    margin: 20vh auto 0;
+}
+

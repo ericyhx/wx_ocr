@@ -1,0 +1,5 @@
+<!--pages/news/news.wxml-->
+<text class="preview-tips">请打扫二维码</text>
+<view class="scanBox">
+  <camera class="video" device-position="back" mode="scanCode" bindscancode="onScancode" flash="off" binderror="error" style="height: 200px; width: 200px;"></camera>
+</view>

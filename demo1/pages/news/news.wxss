@@ -1,0 +1,10 @@
+.scanBox {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: #000000;
+}
+.video {
+  margin: 50px auto;
+}
